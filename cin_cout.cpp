@@ -22,7 +22,6 @@ cout << a << endl;
 cout << b << endl;
 */
 
-//cout << "Danas" << endl << "je" << endl << "lijep dan" <<endl;
 
 
 /*
