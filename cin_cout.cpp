@@ -80,6 +80,6 @@ cin >> prezime;
 
 cout << "Vi mora da ste: " << endl << ime << endl << prezime << endl << "Zadovoljstvo mi je biti vase racunalo!";
 
-
+cout << "\NBLABLABLA";
 
 }
