@@ -66,6 +66,20 @@ cout << "\n10 \t\t 5 \t\t x=y/x \t x=2 ";
 cout << "\n10 \t\t 5 \t\t x=x%y \t x=0";
 
 cout << "\n\nKrizic kruzic";
-cout << "\n_|_|_\n_|_|_\n | |";
+cout << "\n_|_|_\n_|_|_\n | |" << endl;
+
+ 
+string ime;
+string prezime;
+
+cout << "Unesite svoje ime: ";
+cin >> ime;
+
+cout << "Unesite svoje prezime: ";
+cin >> prezime;
+
+cout << "Vi mora da ste: " << endl << ime << endl << prezime << endl << "Zadovoljstvo mi je biti vase racunalo!";
+
+
 
 }
