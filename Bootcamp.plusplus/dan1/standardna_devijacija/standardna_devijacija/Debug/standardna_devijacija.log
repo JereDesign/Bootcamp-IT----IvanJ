@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  standardna_devijacija.cpp
+c:\users\uc-m07\documents\ivan jeremic\bootcamp-it----ivanj\bootcamp.plusplus\standardna_devijacija\standardna_devijacija\standardna_devijacija.cpp(16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  standardna_devijacija.vcxproj -> C:\Users\UC-M07\Documents\Ivan Jeremic\Bootcamp-IT----IvanJ\Bootcamp.plusplus\standardna_devijacija\Debug\standardna_devijacija.exe

@@ -1,0 +1,4 @@
+﻿  kockice.cpp
+c:\users\uc-m07\documents\ivan jeremic\bootcamp-it----ivanj\bootcamp.plusplus\dan2\kockice\kockice\kockice.cpp(13): warning C4101: 'S_novi': unreferenced local variable
+c:\users\uc-m07\documents\ivan jeremic\bootcamp-it----ivanj\bootcamp.plusplus\dan2\kockice\kockice\kockice.cpp(12): warning C4101: 'M_novi': unreferenced local variable
+  kockice.vcxproj -> C:\Users\UC-M07\Documents\Ivan Jeremic\Bootcamp-IT----IvanJ\Bootcamp.plusplus\dan2\kockice\Debug\kockice.exe
