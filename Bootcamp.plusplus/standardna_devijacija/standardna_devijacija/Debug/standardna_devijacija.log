@@ -1,0 +1,3 @@
+﻿  pch.cpp
+  standardna_devijacija.cpp
+c:\users\uc-m07\documents\ivan jeremic\bootcamp-it----ivanj\bootcamp.plusplus\standardna_devijacija\standardna_devijacija\standardna_devijacija.cpp(17): error C3861: 'setprecision': identifier not found
