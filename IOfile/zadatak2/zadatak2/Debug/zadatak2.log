@@ -1,0 +1,4 @@
+﻿  zadatak2.cpp
+c:\users\uc-m07\documents\ivan jeremic\bootcamp-it----ivanj\iofile\zadatak2\zadatak2\zadatak2.cpp(24): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\uc-m07\documents\ivan jeremic\bootcamp-it----ivanj\iofile\zadatak2\zadatak2\zadatak2.cpp(29): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  zadatak2.vcxproj -> C:\Users\UC-M07\Documents\Ivan Jeremic\Bootcamp-IT----IvanJ\IOfile\zadatak2\Debug\zadatak2.exe

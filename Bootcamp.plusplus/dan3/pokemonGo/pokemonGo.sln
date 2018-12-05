@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pokemonGo", "pokemonGo\pokemonGo.vcxproj", "{6096E6D6-54A1-4274-8C98-CA5D3D27A23A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6096E6D6-54A1-4274-8C98-CA5D3D27A23A}.Debug|x64.ActiveCfg = Debug|x64
+		{6096E6D6-54A1-4274-8C98-CA5D3D27A23A}.Debug|x64.Build.0 = Debug|x64
+		{6096E6D6-54A1-4274-8C98-CA5D3D27A23A}.Debug|x86.ActiveCfg = Debug|Win32
+		{6096E6D6-54A1-4274-8C98-CA5D3D27A23A}.Debug|x86.Build.0 = Debug|Win32
+		{6096E6D6-54A1-4274-8C98-CA5D3D27A23A}.Release|x64.ActiveCfg = Release|x64
+		{6096E6D6-54A1-4274-8C98-CA5D3D27A23A}.Release|x64.Build.0 = Release|x64
+		{6096E6D6-54A1-4274-8C98-CA5D3D27A23A}.Release|x86.ActiveCfg = Release|Win32
+		{6096E6D6-54A1-4274-8C98-CA5D3D27A23A}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81EB6339-3AEC-4FC1-8C5C-887690A9A408}
+	EndGlobalSection
+EndGlobal

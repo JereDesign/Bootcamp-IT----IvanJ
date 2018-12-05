@@ -1,0 +1,7 @@
+Igrac jedan: 2
+Igrac dva: 2
+Nerijeseno!Igrac jedan: 1
+Igrac dva: 1
+Nerijeseno!Igrac jedan: 6
+Igrac dva: 6
+Nerijeseno!
