@@ -1,0 +1,8 @@
+﻿  casino.cpp
+c:\users\uc-m07\documents\ivan jeremic\bootcamp-it----ivanj\casino\casino\casino\casino.cpp(137): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\uc-m07\documents\ivan jeremic\bootcamp-it----ivanj\casino\casino\casino\casino.cpp(174): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\uc-m07\documents\ivan jeremic\bootcamp-it----ivanj\casino\casino\casino\casino.cpp(225): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\uc-m07\documents\ivan jeremic\bootcamp-it----ivanj\casino\casino\casino\casino.cpp(225): warning C4305: 'initializing': truncation from 'int' to 'char'
+c:\users\uc-m07\documents\ivan jeremic\bootcamp-it----ivanj\casino\casino\casino\casino.cpp(225): warning C4309: 'initializing': truncation of constant value
+c:\users\uc-m07\documents\ivan jeremic\bootcamp-it----ivanj\casino\casino\casino\casino.cpp(227): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  casino.vcxproj -> C:\Users\UC-M07\Documents\Ivan Jeremic\Bootcamp-IT----IvanJ\casino\casino\Debug\casino.exe
