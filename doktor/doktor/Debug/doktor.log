@@ -1,0 +1,18 @@
+﻿  doktor.cpp
+c:\users\uc-m07\documents\ivan jeremic\bootcamp-it----ivanj\doktor\doktor\doktor.cpp(87): error C2374: 'ispis': redefinition; multiple initialization
+  c:\users\uc-m07\documents\ivan jeremic\bootcamp-it----ivanj\doktor\doktor\doktor.cpp(84): note: see declaration of 'ispis'
+c:\users\uc-m07\documents\ivan jeremic\bootcamp-it----ivanj\doktor\doktor\doktor.cpp(92): error C2088: '>>': illegal for class
+c:\users\uc-m07\documents\ivan jeremic\bootcamp-it----ivanj\doktor\doktor\doktor.cpp(93): error C2664: 'void std::vector<std::string,std::allocator<_Ty>>::push_back(_Ty &&)': cannot convert argument 1 from 'Pacijent' to 'const _Ty &'
+          with
+          [
+              _Ty=std::string
+          ]
+  c:\users\uc-m07\documents\ivan jeremic\bootcamp-it----ivanj\doktor\doktor\doktor.cpp(93): note: Reason: cannot convert from 'Pacijent' to 'const _Ty'
+          with
+          [
+              _Ty=std::string
+          ]
+  c:\users\uc-m07\documents\ivan jeremic\bootcamp-it----ivanj\doktor\doktor\doktor.cpp(93): note: No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+c:\users\uc-m07\documents\ivan jeremic\bootcamp-it----ivanj\doktor\doktor\doktor.cpp(124): warning C4018: '<': signed/unsigned mismatch
+c:\users\uc-m07\documents\ivan jeremic\bootcamp-it----ivanj\doktor\doktor\doktor.cpp(154): warning C4018: '<': signed/unsigned mismatch
+c:\users\uc-m07\documents\ivan jeremic\bootcamp-it----ivanj\doktor\doktor\doktor.cpp(192): warning C4018: '<': signed/unsigned mismatch

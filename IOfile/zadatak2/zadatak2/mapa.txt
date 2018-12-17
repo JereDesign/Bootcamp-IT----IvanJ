@@ -6,4 +6,6 @@ Nerijeseno!Igrac jedan: 6
 Igrac dva: 6
 Nerijeseno!Igrac jedan: 6
 Igrac dva: 6
+Nerijeseno!Igrac jedan: 6
+Igrac dva: 6
 Nerijeseno!

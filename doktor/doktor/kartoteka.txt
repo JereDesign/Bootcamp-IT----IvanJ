@@ -1,0 +1,22 @@
+
+
+ 55 ivo ivic
+	aspirin
+	aspi2
+	0
+
+ 55 maro da
+	0
+
+ 55 dsg sgf	0
+
+ 45 fe sef	sef
+	sef
+	sef
+	sef
+	sef0
+	0
+
+ 55 sdg sdg	sdf	sf	sfs	sfsdfsdfs	0
+ 55 sf sfsfs	sfsf	sf	sfsf	sffs	fs	f0	0
+ 55 dfgd dfgdg	dg	dgd	g	dg	dg	d	0
