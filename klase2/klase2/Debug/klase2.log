@@ -1,0 +1,7 @@
+﻿  klase2.cpp
+c:\users\uc-m07\documents\ivan jeremic\bootcamp-it----ivanj\klase2\klase2\klase.h(16): error C2086: 'int Zivotinja::starost': redefinition
+  c:\users\uc-m07\documents\ivan jeremic\bootcamp-it----ivanj\klase2\klase2\klase.h(10): note: see declaration of 'Zivotinja::starost'
+  sve.cpp
+c:\users\uc-m07\documents\ivan jeremic\bootcamp-it----ivanj\klase2\klase2\klase.h(16): error C2086: 'int Zivotinja::starost': redefinition
+  c:\users\uc-m07\documents\ivan jeremic\bootcamp-it----ivanj\klase2\klase2\klase.h(10): note: see declaration of 'Zivotinja::starost'
+  Generating Code...
