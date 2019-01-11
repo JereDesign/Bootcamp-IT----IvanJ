@@ -1,0 +1,3 @@
+﻿  banka.cpp
+c:\users\uc-m07\documents\ivan jeremic\bootcamp-it----ivanj\banka\banka\banka.cpp(143): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  banka.vcxproj -> C:\Users\UC-M07\Documents\Ivan Jeremic\Bootcamp-IT----IvanJ\banka\Debug\banka.exe
