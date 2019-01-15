@@ -1,0 +1,200 @@
+body {
+	margin: auto;
+	font-family: 'Montserrat', sans-serif;
+	background-color: #000;
+}
+#header {
+	 background-color: #009933;
+	background-size: cover;
+	 height: 100px;
+}
+#logo {
+	margin-left: 100px;
+	float: left;
+}
+#navi{
+	float: right;
+	margin-right: 100px;
+	margin-top: 20px;
+}
+#content{
+	background-image: url(images/background-image.jpg);
+	background-size: cover;
+	height: 600px;
+}
+#naslov{
+	color: #009933;
+	padding-top: 150px;
+	padding-left: 150px;
+	font-size: 30px;
+}
+#novosti{
+	background-color: #000;
+	color: #009933;
+	height: 600px;
+}
+#novosti-clanak-1 , #novosti-clanak-2 , #novosti-clanak-3 {
+	float:left;
+	width: 27%;
+	color:#999966;
+	padding-left: 40px;
+	padding-top: 20px;
+}
+#novosti-clanak-1 {
+	padding-left: 100px;
+}
+#text-1 {
+	clear: both;
+	color: #009933;
+	padding-left: 100px;
+	padding-right: 100px;
+	text-align: center;
+}
+#popis-tvrtki {
+	clear: both;
+	
+}
+#tvrtka-1 , #tvrtka-2 , #tvrtka-3 , #tvrtka-4 , #tvrtka-5 , #tvrtka-6 , #tvrtka-7 , #tvrtka-8 {
+	float:left;
+	margin: 15px;
+	background-color: #999966;
+	height: 200px;
+	width: 21%;
+	border-radius: 20px;	
+}
+#tvrtka-1 , #tvrtka-5 {
+	margin-left: 80px;
+}
+#content-bootcamp {
+	color: #999966;
+	margin: 20px 120px;
+}
+#footer {
+	background-color: #FFF;
+
+}
+#novosti-site {
+	color: #999966;
+	margin:  50px 120px;
+	padding: 50px;
+}
+#footer {
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	clear: both;
+}
+#mapa {
+	clear:both;
+	padding-top: 30px;
+}
+#karta {
+	padding-left: 100px;
+	padding-bottom: 50px;
+	float: left;
+}
+.logo_images{
+	width: 80px;
+	height: 80px;
+	margin-top: 10px;
+	margin-right: 20px;
+}
+.logo_images2{
+	width: 170px;
+	height: 50px;
+}
+.naslov{
+	margin-bottom: -40px;
+}
+.naslov2{
+	font-size: 16px;
+}
+.naslov_novosti{
+	text-align: center;
+	padding-top: 80px;
+	font-size: 32px;
+	color: #009933;
+}
+.naslov_bootcamp {
+	font-size: 32px;
+	color: #009933;
+}
+.zeleni_naslov {
+	color: #009933;
+}
+.icon_kalendar {
+	width: 25px;
+	height: 25px;
+	margin-right: 10px;
+}
+.text-1{
+	padding: 20px 200px;
+}
+.novosti-text {
+	color: #999966;
+	padding: 30px 120px;
+}
+/* slika sa svim logo u footeru*/
+.slika_logo {
+	width: 800px;
+	margin-bottom: 50px;
+}
+.slika-novosti {
+	padding: 50px 0px;
+	margin-left: 150px;
+}
+/* paragrafi za novosti */
+.p-novosti {
+	text-align: justify;
+	line-height: 22px;
+}
+ul li{
+	display: inline;
+	text-decoration: none;
+	margin-left: 25px;
+	text-align: center;
+}
+hr{
+	width: 60px;
+	border-color: #009933;
+	border-width: 2px;
+	margin-bottom: 30px;
+}
+.hr-novosti {
+	width: 100px;
+	border-color: #009933;
+	border-width: 2px;
+	margin-bottom: 80px;
+}
+.saznaj-link {
+	text-align: right;
+	padding: 20px 20px 0px 0px;
+}
+p {
+	line-height: 22px;
+}
+
+/* linkovi navigacije */
+a.navi:link {
+	text-decoration: none;
+	color: #000;
+}
+a.navi:visited {
+	color: #000;
+	text-decoration: none
+}
+a.navi:hover {
+	font-weight: bold;
+}
+/* linkovi teksta */
+a.text:link {
+	text-decoration: none;
+	color: #009933;
+}
+a.text:visited {
+	text-decoration: none;
+	color: #009933;
+}
+a.text:hover {
+	font-weight: bold;
+}
