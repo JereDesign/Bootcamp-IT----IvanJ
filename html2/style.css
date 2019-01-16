@@ -65,6 +65,30 @@ body {
 #tvrtka-1 , #tvrtka-5 {
 	margin-left: 80px;
 }
+#tvrtka-1 {
+	background-image: url("images/google.jpg");
+}
+#tvrtka-2 {
+	background-image: url("images/apple.jpg");
+}
+#tvrtka-3 {
+	background-image: url("images/micro.png");
+}
+#tvrtka-4 {
+	background-image: url("images/rimac.jpg");
+}
+#tvrtka-5 {
+	background-image: url("images/mital.jpg");
+}
+#tvrtka-6 {
+	background-image: url("images/amazon.jpg");
+}
+#tvrtka-7 {
+	background-image: url("images/ebay.png");
+}
+#tvrtka-8 {
+	background-image: url("images/play.png");
+}
 #content-bootcamp {
 	color: #999966;
 	margin: 20px 120px;
@@ -92,6 +116,12 @@ body {
 	padding-left: 100px;
 	padding-bottom: 50px;
 	float: left;
+}
+#izlaz {
+	clear: both;
+	text-align: center;
+	padding: 50px;
+
 }
 .logo_images{
 	width: 80px;
@@ -148,6 +178,22 @@ body {
 	text-align: justify;
 	line-height: 22px;
 }
+.slika_google {
+	height: 200px;
+	width: 320px;
+}
+.red_style {
+	color: red;
+	font-size: 50px;
+}
+.naslov_igrica {
+	color: #009933;
+	text-align: center;
+}
+.igrica {
+	padding: 10px;
+	font-size: 20px;
+}
 ul li{
 	display: inline;
 	text-decoration: none;
@@ -159,6 +205,14 @@ hr{
 	border-color: #009933;
 	border-width: 2px;
 	margin-bottom: 30px;
+}
+button {
+	background-color: #009933;
+	color: #FFF;
+	border: 1px solid #009933;
+	border-radius: 5px;
+	margin-left: 10px;
+	margin-top: 5px;
 }
 .hr-novosti {
 	width: 100px;
