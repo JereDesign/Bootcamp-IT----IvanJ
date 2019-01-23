@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>BootcampIT - Alati za ucenje</title>
+	<meta charset="utf-8"/>
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<link rel="stylesheet" type="text/css" href="animate.css">
+	<link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+
+</head>
+<body>
+	<div id="container">
+
+		<!-- -->	
+		<div id="header">
+			<div id="logo">
+				<a href="index.html"><img src="images/logo.png" alt="BootcampIT logo" class="logo_images" /></a>
+				<img src="images/eu_logo.png" alt="EU logo" class="logo_images2"/>
+			</div>
+
+			<div id="navi">
+				<ul>
+					<a href="novosti.html" class="navi"> <li>Novosti</li></a>
+					<a href="bootcamp.html" class="navi"><li>BootcampIT</li></a>
+					<a href="index.html#popis-tvrtki" class="navi"><li>IT tvrtke</li></a>
+					<a href="" class="navi"><li>Prijavi se</li></a>
+					<a href="" class="navi"><li>Alati za učenje!</li></a>
+				</ul>
+			</div>
+		</div>
+
+		<div id="alati">
+			<h1 class="zeleni_naslov">Dodatni alati za učenje programiranja</h1>
+		</div>
+
+		<div class="alati_za_ucenje" class="code_academy">
+			<img src="images/code_academy.jpg">
+		</div>
+
+	</div>
+</body>
+
+<script type="text/javascript">
+	$('.code_academy').hover (
+		function() {
+			 var $this = $(this); // caching $(this)
+        	$this.data('initialText', $this.text());
+        	$this.text("I'm replaced!");
+		}
+		 function() {
+        var $this = $(this); // caching $(this)
+        $this.text($this.data('initialText'));
+    }
+		);
+</script>
+
+</html>

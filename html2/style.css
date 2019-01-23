@@ -123,6 +123,10 @@ body {
 	padding: 50px;
 
 }
+#alati {
+	text-align: center;
+	padding-top: 50px;
+}
 .logo_images{
 	width: 80px;
 	height: 80px;
@@ -193,6 +197,15 @@ body {
 .igrica {
 	padding: 10px;
 	font-size: 20px;
+}
+.naslov-dole {
+	margin-bottom: -20px;
+}
+.alati_za_ucenje {
+	margin-left: 120px;
+	float: left;
+	width: 30%;
+	height: 220px;
 }
 ul li{
 	display: inline;

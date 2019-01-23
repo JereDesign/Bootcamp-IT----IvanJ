@@ -1,0 +1,7 @@
+body {
+
+}
+.bg {
+	background-image: url(slika.jpg);
+	background-size: cover;
+}
